@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.pw-browsers/
+.chrome-tmp/
+.npmcache/
+screenshots/
+test-results/
+server.log
+*.log
+.env
